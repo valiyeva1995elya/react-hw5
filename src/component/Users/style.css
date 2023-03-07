@@ -1,0 +1,21 @@
+.user-block{
+    box-shadow: 2px 2px 5px gray;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    margin: 10px;
+    width: 450px;
+}
+.user-block2{
+    box-shadow: 2px 2px 5px gray;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    margin: 10px;
+    width: 450px;
+    background-color: aquamarine;
+}
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
